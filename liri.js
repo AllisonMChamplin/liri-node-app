@@ -15,18 +15,20 @@
 var axios = require("axios");
 
 // Store all of the arguments in an array
+console.log("-----------------");
 var nodeArgs = process.argv;
-console.log("nodeArgs: " + nodeArgs);
+// console.log("nodeArgs: " + nodeArgs);
 // Extract Valid Command from arguments
 var command = nodeArgs[2];
-console.log("command: " + command);
+console.log("Command: " + command);
 var input = nodeArgs.slice(3);
-console.log("input: " + input);
+console.log("Input: " + input);
+console.log("-----------------");
+
 
 if (command === "movie") {
     // Create an empty variable for holding the movie name
     var movieName = "";
-
     // Loop through all the words in the node argument
     // And include "+"s
     for (var i = 0; i < input.length; i++) {
@@ -37,8 +39,14 @@ if (command === "movie") {
         }
     }
 
-    // Then run a request with axios to the OMDB API with the movie specified
-    var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+    if (movieName === "") {
+        movieName = "mr+nobody";
+        // Then run a request with axios to the OMDB API with the movie Mr. Nobody
+        var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+    } else {
+        // Then run a request with axios to the OMDB API with the movie specified
+        var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&apikey=trilogy";
+    }
 
     // This line is just to help us debug against the actual URL.
     console.log(queryUrl);
