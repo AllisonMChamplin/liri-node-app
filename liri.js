@@ -10,6 +10,9 @@ var spotify = new Spotify(keys.spotify);
 // Axios package
 var axios = require("axios");
 
+// Moment
+var moment = require('moment');
+
 // Store all of the arguments in an array
 var nodeArgs = process.argv;
 // Extract Valid Command from arguments
@@ -82,22 +85,20 @@ if (command === "movie-this") {
 } else if (command === "concert-this") {
     // console.log("concert stuff here");
     // Create an empty variable for holding the band name
-    var bandName = "";
+    var artist = "";
     // Loop through all the words in the node argument
     // And include "+"s
     for (var i = 0; i < input.length; i++) {
         if (i < input.length) {
-            bandName = bandName + input[i];
-        } else {
-            bandName += input[i];
+            artist = artist + input[i];
         }
     }
 
-    if (bandName === "") {
+    if (artist === "") {
         console.log("You didn't enter a band name.");
     } else {
         // Then run a request with axios to the OMDB API with the movie specified
-        var queryUrl = "https://rest.bandsintown.com/artists/" + bandName + "/events?app_id=codingbootcamp";
+        var queryUrl = "https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp";
     }
 
     // This line is just to help us debug against the actual URL.
@@ -108,18 +109,17 @@ if (command === "movie-this") {
             if (!response.data.length > 0) {
                 console.log("No upcoming events");
             } else {
+                console.log("There are " + response.data.length + " events:");
             for (i = 0; i < response.data.length; i++) {
-                console.log("ARTIST: ", bandName);
+                console.log("* * * * * * Event " + (i + 1) + " * * * * * *");
+                // console.log("\n");
+                console.log("ARTIST: ", response.data[i].lineup[0]);
                 console.log("VENUE: ", response.data[i].venue.name);
                 console.log("LOCATION: ", response.data[i].venue.city + ', ' + response.data[i].venue.country);
-                // console.log("Title: " + response.data.Title);
-                // console.log("Release Year: " + response.data.Year);
-                // console.log("IMDB Rating: " + response.data.Ratings[0].Value);
-                // console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
-                // console.log("Country: " + response.data.Country);
-                // console.log("Language: " + response.data.Language);
-                // console.log("Plot: " + response.data.Plot);
-                // console.log("Actors: " + response.data.Actors);
+                var date = response.data[i].datetime;
+                console.log("DATE OF EVENT: ", moment(date).format('MMMM Do YYYY, h:mm a'));
+                console.log("\n");
+                // console.log("* * * * * * * * * * * * * * * * * * * * * * *");
             }
         }
         })
@@ -167,7 +167,7 @@ if (command === "movie-this") {
         }
         // console.log(data);
         var results = data.tracks.items[0];
-        console.log(results);
+        // console.log(results);
         console.log("* * * * * * SPOTIFY RESULTS * * * * * *");
         console.log("\n");
         if (results.name) {
@@ -185,7 +185,7 @@ if (command === "movie-this") {
             console.log("SONG: ", results.album.name);
         };
         console.log("\n");
-        console.log("* * * * * * SPOTIFY RESULTS * * * * * *");
+        console.log("* * * * * * * * * * * * * * * * * * * * * * *");
     });
 
 } else {
