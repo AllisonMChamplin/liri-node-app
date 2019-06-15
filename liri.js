@@ -1,32 +1,28 @@
 // Core node package for reading and writing files
-// var fs = require("fs");
+var fs = require("fs");
 
-// require("dotenv").config();
-
-// var keys = require("./keys.js");
-
-// var spotify = new Spotify(keys.spotify);
-
-// process.argv will print out any command line arguments.
-// console.log(process.argv);
-
+// Spotify package
+var Spotify = require('node-spotify-api');
+require("dotenv").config();
+var keys = require("./keys.js");
+var spotify = new Spotify(keys.spotify);
 
 // Axios package
 var axios = require("axios");
 
 // Store all of the arguments in an array
-console.log("-----------------");
 var nodeArgs = process.argv;
-// console.log("nodeArgs: " + nodeArgs);
 // Extract Valid Command from arguments
 var command = nodeArgs[2];
-console.log("Command: " + command);
+// Get additional user input
 var input = nodeArgs.slice(3);
+console.log("-----------------");
+console.log("Command: " + command);
 console.log("Input: " + input);
 console.log("-----------------");
 
 
-if (command === "movie") {
+if (command === "movie-this") {
     // Create an empty variable for holding the movie name
     var movieName = "";
     // Loop through all the words in the node argument
@@ -82,6 +78,49 @@ if (command === "movie") {
             }
             console.log(error.config);
         });
+
+} else if (command === "spotify-this-song") {
+    // console.log("spot");
+    // Create an empty variable for holding the song name
+    var songName = "";
+    // Loop through all the words in the node argument
+    // And include "+"s
+    for (var i = 0; i < input.length; i++) {
+        if (i < input.length) {
+            songName = songName + " " + input[i];
+        } else {
+            songName += input[i];
+        }
+    }
+    spotify.search({ type: 'track', query: songName, limit: 1 }, function (err, data) {
+        if (err) {
+            return console.log('Error occurred: ' + err);
+        }
+        // console.log(data);
+        var results = data.tracks.items[0];
+        console.log(results);
+        console.log("* * * * * * SPOTIFY RESULTS * * * * * *");
+        console.log("\n");
+        if (results.name) {
+            console.log("SONG: ", results.name);
+        };
+        if (results.artists[0].name) {
+            console.log("ARTIST(S): ", results.artists[0].name);
+        };
+        if (results.preview_url) {
+            console.log("SONG: ", results.preview_url);
+        } else {
+            console.log("NO PREVIEW AVAILABLE");
+        };
+        if (results.album.name) {
+            console.log("SONG: ", results.album.name);
+        };
+        console.log("\n");
+        console.log("* * * * * * SPOTIFY RESULTS * * * * * *");
+    });
+
 } else {
-    console.log("not movie");
-}
+    console.log("Invalid command");
+};
+
+
