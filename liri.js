@@ -109,8 +109,6 @@ var myFunction = function (command, input, option) {
         });
 
 
-
-
     } else if (command === "concert-this") {
         // console.log("concert stuff here");
         // Create an empty variable for holding the band name
@@ -173,28 +171,19 @@ var myFunction = function (command, input, option) {
                 console.log(error.config);
             });
 
-
-
-
-
     } else if (command === "spotify-this-song") {
-        // console.log("spot");
-        // Create an empty variable for holding the song name
-        var songName = "";
-        // Loop through all the words in the node argument
-        // And include "+"s
-        if (option === false) {
-            for (var i = 0; i < input.length; i++) {
-                if (i < input.length) {
-                    songName = songName + " " + input[i];
-                } else {
-                    songName += input[i];
-                }
-            }
+
+        console.log("HI");
+        console.log("Input: ", input);
+        if (input === undefined || input.length == 0) {
+            songName = "Ace of Base";
+            console.log("Songname ", songName);
         } else {
+            console.log("input");
             songName = input;
+            console.log("Songname ", songName);
         }
-        console.log("songName: ", songName);
+
         spotify.search({ type: 'track', query: songName, limit: 1 }, function (err, data) {
             if (err) {
                 return console.log('Error occurred: ' + err);
@@ -211,23 +200,22 @@ var myFunction = function (command, input, option) {
                 console.log("ARTIST(S): ", results.artists[0].name);
             };
             if (results.preview_url) {
-                console.log("SONG: ", results.preview_url);
+                console.log("PREVIEW: ", results.preview_url);
             } else {
                 console.log("NO PREVIEW AVAILABLE");
             };
             if (results.album.name) {
-                console.log("SONG: ", results.album.name);
+                console.log("ALBUM: ", results.album.name);
             };
             // console.log("\n");
             // console.log("* * * * * * * * * * * * * * * * * * * * * * *");
         });
-
+     
     } else {
         console.log("Invalid command");
     };
 
-
-
 }
 
 myFunction(command, input, false);
+
