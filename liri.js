@@ -27,17 +27,8 @@ var input = nodeArgs.slice(3);
 var myFunction = function (command, input, option) {
     var option = option;
     if (command === "movie-this") {
-        // Create an empty variable for holding the movie name
-        var movieName = "";
-        // Loop through all the words in the node argument
-        // And include "+"s
-        for (var i = 0; i < input.length; i++) {
-            if (i < input.length) {
-                movieName = movieName + "+" + input[i];
-            } else {
-                movieName += input[i];
-            }
-        }
+        // Create a variable for holding the movie name
+        var movieName = input;
 
         if (movieName === "") {
             movieName = "mr+nobody";
@@ -103,6 +94,7 @@ var myFunction = function (command, input, option) {
 
             // Then split it by commas (to make it more readable)
             var dataArr = data.split(",");
+            console.log("dataArr: ", dataArr);
             var myCommand = dataArr[0];
             var myInput = dataArr[1];
             myFunction(myCommand, myInput, true);
@@ -113,17 +105,9 @@ var myFunction = function (command, input, option) {
 
 
     } else if (command === "concert-this") {
-        // console.log("concert stuff here");
-        // Create an empty variable for holding the band name
-        var artist = "";
-        // Loop through all the words in the node argument
-        // And include "+"s
-        for (var i = 0; i < input.length; i++) {
-            if (i < input.length) {
-                artist = artist + input[i];
-            }
-        }
-
+        // Create a variable for holding the band name
+        var artist = input;
+        console.log("input: ", input);
         if (artist === "") {
             console.log("You didn't enter a band name.");
         } else {
