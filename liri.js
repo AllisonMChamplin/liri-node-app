@@ -53,6 +53,8 @@ var myFunction = function (command, input, option) {
 
         axios.get(queryUrl).then(
             function (response) {
+                console.log("\n");
+                console.log("* * * * * * MOVIE RESULTS * * * * * *");
                 console.log("Title: " + response.data.Title);
                 console.log("Release Year: " + response.data.Year);
                 console.log("IMDB Rating: " + response.data.Ratings[0].Value);
@@ -63,6 +65,7 @@ var myFunction = function (command, input, option) {
                 console.log("Language: " + response.data.Language);
                 console.log("Plot: " + response.data.Plot);
                 console.log("Actors: " + response.data.Actors);
+                console.log("\n");
             })
             .catch(function (error) {
                 if (error.response) {
@@ -173,15 +176,15 @@ var myFunction = function (command, input, option) {
 
     } else if (command === "spotify-this-song") {
 
-        console.log("HI");
-        console.log("Input: ", input);
+        // console.log("HI");
+        // console.log("Input: ", input);
         if (input === undefined || input.length == 0) {
             songName = "Ace of Base";
-            console.log("Songname ", songName);
+            // console.log("Songname ", songName);
         } else {
-            console.log("input");
+            // console.log("input");
             songName = input;
-            console.log("Songname ", songName);
+            // console.log("Songname ", songName);
         }
 
         spotify.search({ type: 'track', query: songName, limit: 1 }, function (err, data) {
@@ -207,10 +210,10 @@ var myFunction = function (command, input, option) {
             if (results.album.name) {
                 console.log("ALBUM: ", results.album.name);
             };
-            // console.log("\n");
+            console.log("\n");
             // console.log("* * * * * * * * * * * * * * * * * * * * * * *");
         });
-     
+
     } else {
         console.log("Invalid command");
     };
