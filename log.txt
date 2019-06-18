@@ -1,0 +1,303 @@
+movie-this, charademovie-this, fellowship,of,the,ring
+movie-this, fellowship,of,the,ring
+movie-this, fellowship,of,the,ring
+movie-this, fellowship,of,the,ring
+movie-this, fellowship,of,the,ring
+movie-this, fellowship,of,the,ring
+movie-this, fellowship,of,the,ring
+movie-this, fellowship,of,the,ring
+movie-this, fellowship of the ring
+Command logged: movie-thisfellowship of the ring
+Command logged: movie-this fellowship of the ring
+Command logged: movie-this fellowship of the ring
+ * * * * * * * * * * Result: * * * * * * * * * * 
+ Title: The Lord of the Rings: The Fellowship of the Ring
+Command logged: movie-this fellowship of the ring
+ * * * * * * * * * * Result: * * * * * * * * * * 
+ Title: The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+IMDB Rating: 8.8/10
+Command logged: movie-this fellowship of the ring
+
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+IMDB Rating: 8.8/10
+
+Command logged: movie-this fellowship of the ring
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+IMDB Rating: 8.8/10
+
+
+Command logged: movie-this fellowship of the ring
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+IMDB Rating: 8.8/10
+
+
+Command: movie-this fellowship of the ring
+
+Command: movie-this fellowship of the ring
+
+Command: movie-this fellowship of the ring
+
+Command: movie-this fellowship of the ring 2
+
+Command: movie-this fellowship of the ring
+
+Command: movie-this fellowship of the ring
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+IMDB Rating: 8.8/10
+"Rotton: "91%
+Country: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+
+Command: movie-this Hackers
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: Hackers
+Release Year: 1995
+IMDB Rating: 6.2/10
+"Rotton: "33%
+Country: USA
+Language: English, Italian, Japanese, Russian
+Plot: Hackers are blamed for making a virus that will capsize five oil tankers.
+Actors: Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard
+
+Command: movie-this hackers
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: Hackers
+Release Year: 1995
+IMDB Rating: 6.2/10
+"Rotton: "33%
+Country: USA
+Language: English, Italian, Japanese, Russian
+Plot: Hackers are blamed for making a virus that will capsize five oil tankers.
+Actors: Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard
+
+Command: movie-this titanic
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: Titanic
+Release Year: 1997
+IMDB Rating: 7.8/10
+"Rotton: "89%
+Country: USA
+Language: English, Swedish, Italian
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
+
+Command: movie-this fellowship of the ring
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+IMDB Rating: 8.8/10
+"Rotton: "91%
+Country: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+
+
+>: Command: movie-this fellowship of the ring
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+IMDB Rating: 8.8/10
+"Rotton: "91%
+Country: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+
+
+>: Command: movie-this hackers
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: Hackers
+Release Year: 1995
+IMDB Rating: 6.2/10
+"Rotton: "33%
+Country: USA
+Language: English, Italian, Japanese, Russian
+Plot: Hackers are blamed for making a virus that will capsize five oil tankers.
+Actors: Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard
+
+
+>: COMMAND: MOVIE-THIS hackers
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: Hackers
+Release Year: 1995
+IMDB Rating: 6.2/10
+"Rotton: "33%
+Country: USA
+Language: English, Italian, Japanese, Russian
+Plot: Hackers are blamed for making a virus that will capsize five oil tankers.
+Actors: Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard
+
+
+USER TYPED COMMAND: MOVIE-THIS hackers
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: Hackers
+Release Year: 1995
+IMDB Rating: 6.2/10
+"Rotton: "33%
+Country: USA
+Language: English, Italian, Japanese, Russian
+Plot: Hackers are blamed for making a virus that will capsize five oil tankers.
+Actors: Jonny Lee Miller, Angelina Jolie, Jesse Bradford, Matthew Lillard
+
+
+USER TYPED COMMAND: MOVIE-THIS fellowship of the ring
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+IMDB Rating: 8.8/10
+"Rotton: "91%
+Country: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+
+
+USER TYPED COMMAND: MOVIE-THIS fellowship of the ring
+ * * * * * * * * * * Result: * * * * * * * * * * 
+Title: The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+IMDB Rating: 8.8/10
+Rotten Tomatoes Rating: 91%
+Country: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+
+
+USER TYPED COMMAND: MOVIE-THIS fellowship of the ring
+* * * * * * MOVIE RESULTS * * * * * *
+Title: The Lord of the Rings: The Fellowship of the Ring
+Release Year: 2001
+IMDB Rating: 8.8/10
+Rotten Tomatoes Rating: 91%
+Country: New Zealand, USA
+Language: English, Sindarin
+Plot: A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.
+Actors: Alan Howard, Noel Appleby, Sean Astin, Sala Baker
+
+
+USER TYPED COMMAND: CONCERT-THIS 
+
+USER TYPED COMMAND: CONCERT-THIS 
+
+USER TYPED COMMAND: CONCERT-THIS You didn't enter a band name.
+
+USER TYPED COMMAND: CONCERT-THIS You didn't enter a band name.
+
+USER TYPED COMMAND: CONCERT-THIS You didn't enter a band name.
+
+USER TYPED COMMAND: CONCERT-THIS u2
+
+USER TYPED COMMAND: CONCERT-THIS u2
+
+USER TYPED COMMAND: CONCERT-THIS u2
+There are 4 events:
+* * * * * * Event 1 * * * * * *
+* * * * * * Event 3 * * * * * *
+* * * * * * Event 4 * * * * * *
+* * * * * * Event 2 * * * * * *
+
+USER TYPED COMMAND: CONCERT-THIS u2
+There are 4 events:
+
+USER TYPED COMMAND: CONCERT-THIS u2test hi
+There are 4 events:test hitest hitest hi
+
+USER TYPED COMMAND: CONCERT-THIS u2
+There are 4 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: U2
+VENUE: Optus Stadium
+LOCATION: Burswood
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 2 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 3 * * * * * *
+ARTIST: U2
+VENUE: Marvel Stadium
+LOCATION: Docklands
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+
+USER TYPED COMMAND: CONCERT-THIS u2
+There are 4 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: U2
+VENUE: Optus Stadium
+LOCATION: Burswood
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 3 * * * * * *
+ARTIST: U2
+VENUE: Marvel Stadium
+LOCATION: Docklands
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 2 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+
+USER TYPED COMMAND: CONCERT-THIS You didn't enter a band name.
+
+USER TYPED COMMAND: CONCERT-THIS You didn't enter a band name.
+
+USER TYPED COMMAND: CONCERT-THIS u2
+* * * * * * Event 3 * * * * * *
+ARTIST: U2
+VENUE: Marvel Stadium
+LOCATION: Docklands
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 1 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: U2
+VENUE: Optus Stadium
+LOCATION: Burswood
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 2 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+There are 4 events:
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG 
