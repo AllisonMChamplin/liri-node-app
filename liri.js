@@ -17,8 +17,8 @@ var input = process.argv.slice(3).join(" ");
 
 var myFunction = function (command, input, option) {
     var divider = "\n------------------------------------------------------------\n";
-
-    if (!option) {
+    if (command && option === false) {
+        // console.log("option: ****", option);
         fs.appendFile("log.txt", "\n\n" + divider + "COMMAND LOGGED: " + command.toUpperCase() + " " + input, function (err) {
             if (err) {
                 return console.log(err);
@@ -44,44 +44,35 @@ var myFunction = function (command, input, option) {
 
         axios.get(queryUrl).then(
             function (response) {
-                console.log("\n");
-                console.log("* * * * * * MOVIE RESULTS * * * * * *");
-                console.log("Title: " + response.data.Title);
-                console.log("Release Year: " + response.data.Year);
-                console.log("IMDB Rating: " + response.data.Ratings[0].Value);
-                if (response.data.Ratings[1]) {
-                    console.log("Rotten Tomatoes Rating: " + response.data.Ratings[1].Value);
-                }
-                console.log("Country: " + response.data.Country);
-                console.log("Language: " + response.data.Language);
-                console.log("Plot: " + response.data.Plot);
-                console.log("Actors: " + response.data.Actors);
-                console.log("\n");
-
+                var results = response.data;
+                
                 var rottonString = "";
-                if (response.data.Ratings[1]) {
-                    rottonString = "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value;
+                if (results.Ratings[1]) {
+                    rottonString = "Rotten Tomatoes Rating: " + results.Ratings[1].Value;
                 }
                 // console.log("RottonString: ", rottonString);
 
-                fs.appendFile("log.txt",
-                    "\n" + "* * * * * * MOVIE RESULTS * * * * * *" +
-                    "\n" + "Title: " + response.data.Title +
-                    "\n" + "Release Year: " + response.data.Year +
-                    "\n" + "IMDB Rating: " + response.data.Ratings[0].Value +
-                    "\n" + rottonString +
-                    "\n" + "Country: " + response.data.Country +
-                    "\n" + "Language: " + response.data.Language +
-                    "\n" + "Plot: " + response.data.Plot +
-                    "\n" + "Actors: " + response.data.Actors + "\n", function (err) {
-                        if (err) {
-                            return console.log(err);
-                        }
-                    });
+                var movieData = ["\n", 
+                "Title: " + results.Title,
+                "\n", 
+                "Release Year: " + results.Year,
+                "\n", 
+                "IMDB Rating: " + results.Ratings[0].Value,
+                "\n", 
+                rottonString,
+                "\n", 
+                "Country: " + results.Country,
+                "\n", 
+                "Language: " + results.Language,
+                "\n", 
+                "Plot: " + results.Plot,
+              ].join(" ");
 
 
-
-
+                fs.appendFile("log.txt", movieData + divider, function (err) {
+                    if (err) throw err;
+                  });        
+                  console.log("movieData: ", movieData);
 
 
             })
@@ -116,12 +107,10 @@ var myFunction = function (command, input, option) {
             var dataArr = data.split(",");
             var myCommand = dataArr[0];
             var myInput = dataArr.slice(1).join(" ");
-            console.log("command: ", myCommand);
-            console.log("myInput: ", myInput);
+            // console.log("command: ", myCommand);
+            // console.log("myInput: ", myInput);
             myFunction(myCommand, myInput, true);
         });
-
-
 
 
 

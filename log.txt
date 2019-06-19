@@ -615,3 +615,238 @@ Country: Belgium, Germany, Canada, France, USA, UK
 Language: English, Mohawk
 Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: SPOTIFY-THIS-SONG I Want it That Way
+
+
+------------------------------------------------------------
+COMMAND LOGGED: DO-WHAT-IT-SAYS 
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: DO-WHAT-IT-SAYS 
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: DO-WHAT-IT-SAYS 
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: MOVIE-THIS 
+* * * * * * MOVIE RESULTS * * * * * *
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: MOVIE-THIS 
+ Title: Mr. Nobody 
+ Release Year: 2009 
+ IMDB Rating: 7.8/10 
+ Rotten Tomatoes Rating: 67% 
+ Country: Belgium, Germany, Canada, France, USA, UK 
+ Language: English, Mohawk 
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: MOVIE-THIS the return of the king
+ Title: The Return of the King 
+ Release Year: 1980 
+ IMDB Rating: 5.7/10 
+ Rotten Tomatoes Rating: 67% 
+ Country: USA, Japan 
+ Language: English 
+ Plot: Two Hobbits struggle to destroy the Ring in Mount Doom while their friends desperately fight evil Lord Sauron's forces in a final battle.
+------------------------------------------------------------
+You didn't enter a band name.
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS You didn't enter a band name.
+
+
+------------------------------------------------------------
+COMMAND LOGGED: MOVIE-THIS the return of the king
+ Title: The Return of the King 
+ Release Year: 1980 
+ IMDB Rating: 5.7/10 
+ Rotten Tomatoes Rating: 67% 
+ Country: USA, Japan 
+ Language: English 
+ Plot: Two Hobbits struggle to destroy the Ring in Mount Doom while their friends desperately fight evil Lord Sauron's forces in a final battle.
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: MOVIE-THIS the return of the king
+ Title: The Return of the King 
+ Release Year: 1980 
+ IMDB Rating: 5.7/10 
+ Rotten Tomatoes Rating: 67% 
+ Country: USA, Japan 
+ Language: English 
+ Plot: Two Hobbits struggle to destroy the Ring in Mount Doom while their friends desperately fight evil Lord Sauron's forces in a final battle.
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: DO-WHAT-IT-SAYS 
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: DO-WHAT-IT-SAYS 
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: DO-WHAT-IT-SAYS trouble
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS You didn't enter a band name.
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS coldplayNo upcoming events.
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS adeleNo upcoming events.
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS keith urban
+There are 14 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: Keith Urban
+VENUE: Huntington Bank Pavilion at Northerly Island
+LOCATION: Chicago
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: Keith Urban
+VENUE: Michigan International Speedway
+LOCATION: Brooklyn
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 5 * * * * * *
+ARTIST: Keith Urban
+VENUE: Cheyenne Frontier Days - Frontier Park
+LOCATION: Cheyenne
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 6 * * * * * *
+ARTIST: Keith Urban
+VENUE: WE Fest Country Music Festival at Soo Pass Ranch
+LOCATION: Detroit Lakes
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 7 * * * * * *
+ARTIST: Keith Urban
+VENUE: Sioux Empire Fair
+LOCATION: Sioux Falls
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 9 * * * * * *
+ARTIST: Keith Urban
+VENUE: Hard Rock - Mark G Etess Arena
+LOCATION: Atlantic City
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 2 * * * * * *
+ARTIST: Keith Urban
+VENUE: Huntington Bank Pavilion at Northerly Island
+LOCATION: Chicago
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 3 * * * * * *
+ARTIST: Keith Urban
+VENUE: LaVell Edwards Stadium
+LOCATION: Provo
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 10 * * * * * *
+ARTIST: Keith Urban
+VENUE: Puyallup Fairgrounds
+LOCATION: Puyallup
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 11 * * * * * *
+ARTIST: Keith Urban
+VENUE: Kentucky Fair and Expo Center
+LOCATION: Louisville
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 13 * * * * * *
+ARTIST: Keith Urban
+VENUE: The Park at Harlinsdale Farm
+LOCATION: Franklin
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 12 * * * * * *
+ARTIST: Keith Urban
+VENUE: Kentucky Fair and Expo Center
+LOCATION: Louisville
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 8 * * * * * *
+ARTIST: Keith Urban
+VENUE: En-Joie Golf Course
+LOCATION: Endicott
+DATE OF EVENT: October 18th 2019, 8:00 pm
+
+* * * * * * Event 14 * * * * * *
+ARTIST: Keith Urban
+VENUE: Choctaw Casino & Resort
+LOCATION: Durant
+DATE OF EVENT: October 18th 2019, 8:00 pm
