@@ -301,3 +301,317 @@ DATE OF EVENT: November 27th 2019, 7:00 pm
 There are 4 events:
 
 USER TYPED COMMAND: SPOTIFY-THIS-SONG 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG 
+
+USER TYPED COMMAND: MOVIE-THIS 
+* * * * * * MOVIE RESULTS * * * * * *
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+USER TYPED COMMAND: GONE with the wind
+
+USER TYPED COMMAND: MOVIE-THIS gone with the wind
+* * * * * * MOVIE RESULTS * * * * * *
+Title: Gone with the Wind
+Release Year: 1939
+IMDB Rating: 8.2/10
+Rotten Tomatoes Rating: 92%
+Country: USA
+Language: English
+Plot: A manipulative woman and a roguish man conduct a turbulent romance during the American Civil War and Reconstruction periods.
+Actors: Thomas Mitchell, Barbara O'Neil, Vivien Leigh, Evelyn Keyes
+
+
+USER TYPED COMMAND: MOVIE-THIS breakfast at tiffanys
+
+USER TYPED COMMAND: MOVIE-THIS 
+* * * * * * MOVIE RESULTS * * * * * *
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+
+USER TYPED COMMAND: MOVIE-THIS charade
+* * * * * * MOVIE RESULTS * * * * * *
+Title: Charade
+Release Year: 1963
+IMDB Rating: 8.0/10
+Rotten Tomatoes Rating: 95%
+Country: USA
+Language: English, French, German, Italian
+Plot: Romance and suspense ensue in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Whom can she trust?
+Actors: Cary Grant, Audrey Hepburn, Walter Matthau, James Coburn
+
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG u2
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: CONCERT-THIS u2
+There are 4 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 2 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: U2
+VENUE: Optus Stadium
+LOCATION: Burswood
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 3 * * * * * *
+ARTIST: U2
+VENUE: Marvel Stadium
+LOCATION: Docklands
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: CONCERT-THIS u2
+There are 4 events:
+* * * * * * Event 3 * * * * * *
+ARTIST: U2
+VENUE: Marvel Stadium
+LOCATION: Docklands
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 1 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 2 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: U2
+VENUE: Optus Stadium
+LOCATION: Burswood
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG sunday bloody sunday
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG sunday bloody sunday
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+
+------------------------------------------------------------
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+
+
+------------------------------------------------------------
+
+USER TYPED COMMAND: SPOTIFY-THIS-SONG I Want it That Way
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------
+
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------
+USER TYPED COMMAND: DO-WHAT-IT-SAYS 
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: DO-WHAT-IT-SAYS 
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: MOVIE-THIS 
+* * * * * * MOVIE RESULTS * * * * * *
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8/10
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham

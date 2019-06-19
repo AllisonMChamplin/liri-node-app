@@ -13,21 +13,18 @@ var moment = require('moment');
 var nodeArgs = process.argv;
 var command = nodeArgs[2];
 // Get additional user input
-var input = nodeArgs.slice(3);
+var input = process.argv.slice(3).join(" ");
 
 var myFunction = function (command, input, option) {
+    var divider = "\n------------------------------------------------------------\n";
 
-    // console.log("input: ", input);
-    var x = input.toString();
-    // var x = JSON.stringify(input);
-    var newStr = x.replace(/,/g, ' ');
-    // console.log("newStr: ", newStr);
-    // We will add the value to the log file.
-    fs.appendFile("log.txt", "\n\n" + "USER TYPED COMMAND: " + command.toUpperCase() + " " + newStr, function (err) {
-        if (err) {
-            return console.log(err);
-        }
-    });
+    if (!option) {
+        fs.appendFile("log.txt", "\n\n" + divider + "COMMAND LOGGED: " + command.toUpperCase() + " " + input, function (err) {
+            if (err) {
+                return console.log(err);
+            }
+        });
+    }
 
     if (command === "movie-this") {
         // Create a variable for holding the movie name
@@ -61,15 +58,6 @@ var myFunction = function (command, input, option) {
                 console.log("Actors: " + response.data.Actors);
                 console.log("\n");
 
-
-
-
-                // console.log("input: ", input);
-                var x = input.toString();
-                // var x = JSON.stringify(input);
-                var newStr = x.replace(/,/g, ' ');
-                // console.log("newStr: ", newStr);
-                // We will add the value to the log file.
                 var rottonString = "";
                 if (response.data.Ratings[1]) {
                     rottonString = "Rotten Tomatoes Rating: " + response.data.Ratings[1].Value;
@@ -127,9 +115,15 @@ var myFunction = function (command, input, option) {
             }
             var dataArr = data.split(",");
             var myCommand = dataArr[0];
-            var myInput = dataArr[1];
+            var myInput = dataArr.slice(1).join(" ");
+            console.log("command: ", myCommand);
+            console.log("myInput: ", myInput);
             myFunction(myCommand, myInput, true);
         });
+
+
+
+
 
     } else if (command === "concert-this") {
         // Create a variable for holding the band name
@@ -227,38 +221,24 @@ var myFunction = function (command, input, option) {
 
         spotify.search({ type: 'track', query: songName, limit: 1 }, function (err, data) {
             if (err) {
-                return console.log('Error occurred: ' + err);
+                return console.log('*Error occurred: ' + err);
             }
-
             var results = data.tracks.items[0];
-            console.log("\n");
-            console.log("* * * * * * SPOTIFY RESULTS * * * * * *");
-            if (results.name) {
-                console.log("SONG: ", results.name);
-            };
-            if (results.artists[0].name) {
-                console.log("ARTIST: ", results.artists[0].name);
-            };
-            if (results.preview_url) {
-                console.log("PREVIEW: ", results.preview_url);
-            } else {
-                console.log("NO PREVIEW AVAILABLE");
-            };
-            if (results.album.name) {
-                console.log("ALBUM: ", results.album.name);
-            };
-            console.log("\n");
+            console.log("results: ", results.name);
+            var spotifyData = ["\n", 
+                "SONG: " + results.name,
+                "\n",
+                "ARTIST: ", results.artists[0].name,
+                "\n",
+                "PREVIEW: ", results.preview_url,
+                "\n",
+                "ALBUM: ", results.album.name,                
+              ].join(" ");
 
-            fs.appendFile("log.txt", 
-            "\n" + "* * * * * * SPOTIFY RESULTS * * * * * *" +
-            "\n" + "ARTIST: ", results.artists[0].name +
-            "\n" + "PREVIEW: ", results.preview_url +
-            "\n" + "ALBUM: ", results.album.name +
-            "\n", function (err) {
-                if (err) {
-                    return console.log(err);
-                }
-            });
+              fs.appendFile("log.txt", spotifyData + divider, function (err) {
+                if (err) throw err;
+              });        
+              console.log("SpotifyData: ", spotifyData);
 
 
         });
