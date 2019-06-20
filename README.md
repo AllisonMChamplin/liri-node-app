@@ -22,9 +22,9 @@ LIRI is a command line node app that takes in commands and logs and displays dat
         * The [Moment](https://www.npmjs.com/package/moment) package is used to format dates.
 
 <br>
-<img src="https://allisonmchamplin.github.io/assets/images/concert-this-02.gif" width="450" title="Video of the concert-this command">
+<img src="https://allisonmchamplin.github.io/assets/images/concert-this-02.gif" width="650" title="Video of the concert-this command">
 <br>
-<img src="https://allisonmchamplin.github.io/assets/images/concert-this-log.gif" width="450" title="Screenshot of the Log of the concert-this command">
+<img src="https://allisonmchamplin.github.io/assets/images/concert-this-log.gif" width="650" title="Screenshot of the Log of the concert-this command">
 <br><br>
 
 2. `spotify-this-song`
@@ -42,9 +42,9 @@ LIRI is a command line node app that takes in commands and logs and displays dat
     * *If no song is provided then the program will default to "The Sign" by Ace of Base.*
 
 <br>
-<img src="https://allisonmchamplin.github.io/assets/images/spotify-01.gif" width="450" title="Video of the spotify-this-song command">
+<img src="https://allisonmchamplin.github.io/assets/images/spotify-01.gif" width="650" title="Video of the spotify-this-song command">
 <br>
-<img src="https://allisonmchamplin.github.io/assets/images/spotify-02.gif" width="450" title="Screenshot of the Log of the spotify-this-song command">
+<img src="https://allisonmchamplin.github.io/assets/images/spotify-02.gif" width="650" title="Screenshot of the Log of the spotify-this-song command">
 <br><br>
 
 3. `movie-this`
@@ -66,24 +66,31 @@ LIRI is a command line node app that takes in commands and logs and displays dat
     * *If no song is provided then the program will default to "Mr. Nobody."*
 
 <br>
-<img src="https://allisonmchamplin.github.io/assets/images/movie-01.gif" width="450" title="Video of the movie-this command">
+<img src="https://allisonmchamplin.github.io/assets/images/movie-01.gif" width="650" title="Video of the movie-this command">
 <br>
-<img src="https://allisonmchamplin.github.io/assets/images/movie-02.gif" width="450" title="Screenshot of the Log of the movie-this command">
+<img src="https://allisonmchamplin.github.io/assets/images/movie-02.gif" width="650" title="Screenshot of the Log of the movie-this command">
 <br><br>
 
-4. `do-what-it-says`
+4. `do-what-it-says`  
     ```javascript 
     node liri.js do-what-it-says 
-    ```
+    ```  
     * Using the [fs Node](https://www.npmjs.com/package/file-system) package, LIRI will take the text inside of random.txt and use it to call one of LIRI's commands.
     * It will run spotify-this-song for "I Want it That Way," as follows the text in random.txt.
     * Editing the text in random.txt will test out the feature for movie-this and concert-this.
 
 <br>
-<img src="https://allisonmchamplin.github.io/assets/images/do-what-01.gif" width="450" title="Video of the do-what-it-says command">
+<img src="https://allisonmchamplin.github.io/assets/images/do-what-01.gif" width="650" title="Video of the do-what-it-says command">
 <br>
-<img src="https://allisonmchamplin.github.io/assets/images/do-what-02.gif" width="450" title="Screenshot of the Log of the do-what-it-says command">
+<img src="https://allisonmchamplin.github.io/assets/images/do-what-02.gif" width="650" title="Screenshot of the Log of the do-what-it-says command">
 <br><br>
+
+## How to run LIRI:
+    1. Clone the Repository
+    2. Run npm install in the main directory
+    3. Sign up for and request your own Spotify API key/secret
+    4. Supply your personal Spotify info inside a .env file
+    5. Refer to the commands to run LIRI from your terminal
 
 ### Made with
 * Node.js
