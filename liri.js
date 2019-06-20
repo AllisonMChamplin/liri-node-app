@@ -72,7 +72,7 @@ var myFunction = function (command, input, option) {
                 fs.appendFile("log.txt", movieData + divider, function (err) {
                     if (err) throw err;
                   });        
-                  console.log("movieData: ", movieData);
+                  console.log(movieData);
 
 
             })
@@ -143,7 +143,11 @@ var myFunction = function (command, input, option) {
                     });
                 } else {
                     console.log("\n");
+                    if (response.data.length > 1) {
                     console.log("There are " + response.data.length + " events:");
+                    } else if (response.data.length === 1) {
+                    console.log("There is " + response.data.length + " event:");
+                    }
                     for (i = 0; i < response.data.length; i++) {
                         console.log("* * * * * * Event " + (i + 1) + " * * * * * *");
                         console.log("ARTIST: ", response.data[i].lineup[0]);

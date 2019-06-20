@@ -850,3 +850,636 @@ ARTIST: Keith Urban
 VENUE: Choctaw Casino & Resort
 LOCATION: Durant
 DATE OF EVENT: October 18th 2019, 8:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: DO-WHAT-IT-SAYS trouble
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: DO-WHAT-IT-SAYS trouble
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS U2
+* * * * * * Event 3 * * * * * *
+ARTIST: U2
+VENUE: Marvel Stadium
+LOCATION: Docklands
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 2 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+There are 4 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: U2
+VENUE: Optus Stadium
+LOCATION: Burswood
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS You didn't enter a band name.
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS taylor swiftNo upcoming events.
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS cher
+* * * * * * Event 6 * * * * * *
+ARTIST: Cher
+VENUE: Park MGM Las Vegas
+LOCATION: Las Vegas
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 7 * * * * * *
+ARTIST: Cher
+VENUE: Mercedes-Benz Arena
+LOCATION: Berlin
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 10 * * * * * *
+ARTIST: Cher
+VENUE: Kleine Olympiahalle München
+LOCATION: München
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 8 * * * * * *
+ARTIST: Cher
+VENUE: Antwerps Sportpaleis
+LOCATION: Antwerpen
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 11 * * * * * *
+ARTIST: Cher
+VENUE: Lanxess Arena
+LOCATION: Köln
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 12 * * * * * *
+ARTIST: Cher
+VENUE: Wiener Stadthalle - Halle D
+LOCATION: Vienna
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 9 * * * * * *
+ARTIST: Cher
+VENUE: Ziggo Dome
+LOCATION: Amsterdam
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 16 * * * * * *
+ARTIST: Cher
+VENUE: Royal Arena
+LOCATION: København S
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 18 * * * * * *
+ARTIST: Cher
+VENUE: The O2
+LOCATION: London
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 15 * * * * * *
+ARTIST: Cher
+VENUE: Barclaycard Arena Hamburg
+LOCATION: Hamburg
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 14 * * * * * *
+ARTIST: Cher
+VENUE: SAP Arena
+LOCATION: Mannheim
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 19 * * * * * *
+ARTIST: Cher
+VENUE: The O2 Arena
+LOCATION: London
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 20 * * * * * *
+ARTIST: Cher
+VENUE: Manchester Arena
+LOCATION: Manchester
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 22 * * * * * *
+ARTIST: Cher
+VENUE: The SSE Hydro
+LOCATION: Glasgow
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 21 * * * * * *
+ARTIST: Cher
+VENUE: Arena Birmingham
+LOCATION: Birmingham
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 23 * * * * * *
+ARTIST: Cher
+VENUE: First Direct Arena
+LOCATION: Leeds
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 17 * * * * * *
+ARTIST: Cher
+VENUE: Friends Arena
+LOCATION: Stockholm
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 13 * * * * * *
+ARTIST: Cher
+VENUE: Hallenstadion
+LOCATION: Zürich-oerlikon
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 24 * * * * * *
+ARTIST: Cher
+VENUE: 3Arena
+LOCATION: Dublin
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 26 * * * * * *
+ARTIST: Cher
+VENUE: Moda Center
+LOCATION: Portland
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 27 * * * * * *
+ARTIST: Cher
+VENUE: Chase Center
+LOCATION: San Francisco
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 28 * * * * * *
+ARTIST: Cher
+VENUE: Gila River Arena
+LOCATION: Glendale
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 29 * * * * * *
+ARTIST: Cher
+VENUE: Pepsi Center
+LOCATION: Denver
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 30 * * * * * *
+ARTIST: Cher
+VENUE: United Center
+LOCATION: Chicago
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 31 * * * * * *
+ARTIST: Cher
+VENUE: Scotiabank Arena
+LOCATION: Toronto
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 32 * * * * * *
+ARTIST: Cher
+VENUE: Madison Square Garden
+LOCATION: New York
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 33 * * * * * *
+ARTIST: Cher
+VENUE: Wells Fargo Center
+LOCATION: Philadelphia
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 34 * * * * * *
+ARTIST: Cher
+VENUE: TD Garden
+LOCATION: Boston
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 35 * * * * * *
+ARTIST: Cher
+VENUE: Capital One Arena
+LOCATION: Washington
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 36 * * * * * *
+ARTIST: Cher
+VENUE: Smoothie King Center
+LOCATION: New Orleans
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 37 * * * * * *
+ARTIST: Cher
+VENUE: Toyota Center
+LOCATION: Houston
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 38 * * * * * *
+ARTIST: Cher
+VENUE: AT&T Center
+LOCATION: San Antonio
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 39 * * * * * *
+ARTIST: Cher
+VENUE: American Airlines Center
+LOCATION: Dallas
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+* * * * * * Event 25 * * * * * *
+ARTIST: Cher
+VENUE: SSE Arena
+LOCATION: Belfast
+DATE OF EVENT: December 19th 2019, 7:30 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS beyonceNo upcoming events.
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS snoopNo upcoming events.
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS maroon 5
+There are 1 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: Maroon 5
+VENUE: Curacao North Sea Jazz Festival
+LOCATION: Willemstad, Curaçao
+DATE OF EVENT: August 31st 2019, 7:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS You didn't enter a band name.
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS maroon 5
+There are 1 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: Maroon 5
+VENUE: Curacao North Sea Jazz Festival
+LOCATION: Willemstad, Curaçao
+DATE OF EVENT: August 31st 2019, 7:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS u2
+There are 4 events:
+* * * * * * Event 2 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 1 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: U2
+VENUE: Optus Stadium
+LOCATION: Burswood
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 3 * * * * * *
+ARTIST: U2
+VENUE: Marvel Stadium
+LOCATION: Docklands
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS maroon 5
+There are 1 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: Maroon 5
+VENUE: Curacao North Sea Jazz Festival
+LOCATION: Willemstad, Curaçao
+DATE OF EVENT: August 31st 2019, 7:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS u2
+There are 4 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 3 * * * * * *
+ARTIST: U2
+VENUE: Marvel Stadium
+LOCATION: Docklands
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 2 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: U2
+VENUE: Optus Stadium
+LOCATION: Burswood
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS maroon 5
+There are 1 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: Maroon 5
+VENUE: Curacao North Sea Jazz Festival
+LOCATION: Willemstad, Curaçao
+DATE OF EVENT: August 31st 2019, 7:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS u2
+* * * * * * Event 1 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+There are 4 events:
+* * * * * * Event 2 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 3 * * * * * *
+ARTIST: U2
+VENUE: Marvel Stadium
+LOCATION: Docklands
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: U2
+VENUE: Optus Stadium
+LOCATION: Burswood
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS maroon 5
+There are 1 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: Maroon 5
+VENUE: Curacao North Sea Jazz Festival
+LOCATION: Willemstad, Curaçao
+DATE OF EVENT: August 31st 2019, 7:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS u2
+* * * * * * Event 1 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+There are 4 events:
+* * * * * * Event 2 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: U2
+VENUE: Optus Stadium
+LOCATION: Burswood
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 3 * * * * * *
+ARTIST: U2
+VENUE: Marvel Stadium
+LOCATION: Docklands
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS maroon 5
+* * * * * * Event 1 * * * * * *
+ARTIST: Maroon 5
+VENUE: Curacao North Sea Jazz Festival
+LOCATION: Willemstad, Curaçao
+DATE OF EVENT: August 31st 2019, 7:00 pm
+
+There are 1 events:
+
+
+------------------------------------------------------------
+COMMAND LOGGED: CONCERT-THIS u2
+There are 4 events:
+* * * * * * Event 1 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 3 * * * * * *
+ARTIST: U2
+VENUE: Marvel Stadium
+LOCATION: Docklands
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 2 * * * * * *
+ARTIST: U2
+VENUE: Mt Smart Stadium
+LOCATION: Auckland
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+* * * * * * Event 4 * * * * * *
+ARTIST: U2
+VENUE: Optus Stadium
+LOCATION: Burswood
+DATE OF EVENT: November 27th 2019, 7:00 pm
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: SPOTIFY-THIS-SONG let it go
+ SONG: Let It Go 
+ ARTIST:  James Bay 
+ PREVIEW:   
+ ALBUM:  Chaos And The Calm
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: SPOTIFY-THIS-SONG thriller
+ SONG: Billie Jean 
+ ARTIST:  Michael Jackson 
+ PREVIEW:  https://p.scdn.co/mp3-preview/f504e6b8e037771318656394f532dede4f9bcaea?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  Thriller 25 Super Deluxe Edition
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: SPOTIFY-THIS-SONG stash
+ SONG: Stash (feat. Blueface) 
+ ARTIST:  Tyga 
+ PREVIEW:  https://p.scdn.co/mp3-preview/d074c2737478f2e538d7adae39b88a09f3393092?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  Legendary
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: SPOTIFY-THIS-SONG stash phish
+ SONG: Stash 
+ ARTIST:  Phish 
+ PREVIEW:  https://p.scdn.co/mp3-preview/13a4f3665114821ae575a33a5f2bcbddaaf4655a?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  A Picture Of Nectar
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: SPOTIFY-THIS-SONG stash phish
+ SONG: Stash 
+ ARTIST:  Phish 
+ PREVIEW:  https://p.scdn.co/mp3-preview/13a4f3665114821ae575a33a5f2bcbddaaf4655a?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  A Picture Of Nectar
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: SPOTIFY-THIS-SONG 
+ SONG: The Sign 
+ ARTIST:  Ace of Base 
+ PREVIEW:  https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Sign (US Album) [Remastered]
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: MOVIE-THIS charade
+ Title: Charade 
+ Release Year: 1963 
+ IMDB Rating: 8.0/10 
+ Rotten Tomatoes Rating: 95% 
+ Country: USA 
+ Language: English, French, German, Italian 
+ Plot: Romance and suspense ensue in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Whom can she trust?
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: MOVIE-THIS 
+ Title: Mr. Nobody 
+ Release Year: 2009 
+ IMDB Rating: 7.8/10 
+ Rotten Tomatoes Rating: 67% 
+ Country: Belgium, Germany, Canada, France, USA, UK 
+ Language: English, Mohawk 
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: MOVIE-THIS 
+ Title: Mr. Nobody 
+ Release Year: 2009 
+ IMDB Rating: 7.8/10 
+ Rotten Tomatoes Rating: 67% 
+ Country: Belgium, Germany, Canada, France, USA, UK 
+ Language: English, Mohawk 
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: MOVIE-THIS charade
+ Title: Charade 
+ Release Year: 1963 
+ IMDB Rating: 8.0/10 
+ Rotten Tomatoes Rating: 95% 
+ Country: USA 
+ Language: English, French, German, Italian 
+ Plot: Romance and suspense ensue in Paris as a woman is pursued by several men who want a fortune her murdered husband had stolen. Whom can she trust?
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: MOVIE-THIS 
+ Title: Mr. Nobody 
+ Release Year: 2009 
+ IMDB Rating: 7.8/10 
+ Rotten Tomatoes Rating: 67% 
+ Country: Belgium, Germany, Canada, France, USA, UK 
+ Language: English, Mohawk 
+ Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: DO-WHAT-IT-SAYS 
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
+
+
+
+------------------------------------------------------------
+COMMAND LOGGED: DO-WHAT-IT-SAYS 
+ SONG: I Want It That Way 
+ ARTIST:  Backstreet Boys 
+ PREVIEW:  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=df70eb9de4634933a776cb3455c8616e 
+ ALBUM:  The Hits--Chapter One
+------------------------------------------------------------
